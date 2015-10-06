@@ -1,5 +1,27 @@
 # P5 Project: Linux Server Configuration
 
+## Requirements
+
+1. The IP address and SSH port so your server can be accessed by the reviewer  
+
+   IP address: `52.88.112.152`, Port: `2200`
+   
+2. The complete URL to your hosted web application  
+
+    `http://ec2-52-88-112-152.us-west-2.compute.amazonaws.com/`
+
+3. A summary of software you installed and configuration changes made  
+
+   - Softwares & configurations are included on the README
+
+4. A list of any third party resources you made use of to complete this project  
+
+   - Sources are included on each of the steps on the README
+
+5. `~/.ssh/udacity_key.rsa`  
+
+   - The key was included on the `Notes to Reviewer` field. 
+
 ## Perform Basic Configuration
 
 ### 1. Launch your Virtual Machine:  
